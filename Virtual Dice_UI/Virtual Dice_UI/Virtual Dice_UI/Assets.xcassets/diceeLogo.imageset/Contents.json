@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-dice-mahjong-game-random-number-generation-gamblin-dice-5a6d6514b02d16.7688967715171187407216.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-dice-mahjong-game-random-number-generation-gamblin-dice-5a6d6514b02d16.7688967715171187407216@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-dice-mahjong-game-random-number-generation-gamblin-dice-5a6d6514b02d16.7688967715171187407216@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
